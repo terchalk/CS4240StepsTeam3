@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4240Project-master", "CS4240Project-master.csproj", "{CB981246-C04D-AC48-C80E-519D84878CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS4240Project-master.Editor", "CS4240Project-master.Editor.csproj", "{FF367403-7008-F5EE-299B-861B5021C2B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB981246-C04D-AC48-C80E-519D84878CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB981246-C04D-AC48-C80E-519D84878CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB981246-C04D-AC48-C80E-519D84878CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB981246-C04D-AC48-C80E-519D84878CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF367403-7008-F5EE-299B-861B5021C2B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF367403-7008-F5EE-299B-861B5021C2B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF367403-7008-F5EE-299B-861B5021C2B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF367403-7008-F5EE-299B-861B5021C2B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
